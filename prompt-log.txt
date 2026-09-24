@@ -1,0 +1,7 @@
+Prompt Log - AL KHYBER TRAVELLERS Travel
+
+1. Create a responsive navbar in semantic HTML and CSS for a five-page travel website using teal and sunset orange, with an active link and a mobile hamburger menu.
+2. Build a homepage for a Northern Pakistan travel agency with a full-width hero, featured destinations, four benefits, reviews, and a clear booking call to action.
+3. Create six destination cards with CSS Grid and plain JavaScript category filters for Mountains, Beach, and City.
+4. Add a plain JavaScript image lightbox to a nine-photo gallery that closes with a button, outside click, or Escape key.
+5. Add a booking form with client-side validation, a success message, and an expandable four-question FAQ using native HTML details elements.
