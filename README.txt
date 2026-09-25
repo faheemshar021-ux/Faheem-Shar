@@ -1,0 +1,1 @@
+Images are loaded from optimized Unsplash CDN URLs in the HTML files so the project stays lightweight and easy to submit.
